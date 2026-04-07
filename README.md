@@ -1,2 +1,16 @@
 Footwear-Order-Management-System
-GUI-based system for tracking footwear orders and managing inventory. Built with Tkinter and MySQL, featuring user authentication, role-based access, and responsive UI. Developed during internship at Livewire, Salem.
+# Footwear Order Management
+A Python project for managing footwear orders, inventory, and customer details.
+
+## Features
+- Add, update, and track footwear orders
+- Maintain inventory records
+- Simple command-line interface
+
+## How to Run
+1. Clone the repo:
+   git clone https://github.com/Sharveshmurugesan/Footwear-Order-Management.git
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Run the project:
+   python main.py
